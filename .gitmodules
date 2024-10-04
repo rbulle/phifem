@@ -1,0 +1,3 @@
+[submodule "Poisson-Dirichlet"]
+	path = Poisson-Dirichlet
+	url = https://github.com/PhiFEM/Poisson-Dirichlet.git
